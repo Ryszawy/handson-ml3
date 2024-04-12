@@ -1,0 +1,1 @@
+Installed kernelspec python3_homl3 in C:\Users\Krafi\AppData\Roaming\jupyter\kernels\python3_homl3
